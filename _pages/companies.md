@@ -17,6 +17,7 @@ permalink: /companies
 * [株式会社フォトクリエイト](https://www.photocreate.co.jp/)
 * [株式会社LIFULL](https://lifull.com/)
 * [ラクスル株式会社](https://corp.raksul.com/)
+* [株式会社ロックオン](https://www.lockon.co.jp/)
 * [株式会社VOYAGE GROUP](https://voyagegroup.com/)
 
 # 詳細な事例紹介
